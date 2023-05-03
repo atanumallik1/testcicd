@@ -8,6 +8,5 @@ while true; do
 done
 EOF
 
-TAG atanu:latest
 
 ENTRYPOINT /app/run.sh
